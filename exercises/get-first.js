@@ -8,10 +8,11 @@
  */
 
 // Your code :
-function getFirst([2, 42]) {
-    return.First;
+
+let arrey = [2, 42];
+function getFirst (arrey){
+return arrey [0];
 }
-    
 
 //* Begin of tests
 const assert = require('assert')
